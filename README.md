@@ -1,4 +1,4 @@
 jtimmy.github.io
 ================
 
-github page
+github page for my notes
